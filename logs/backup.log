@@ -1,0 +1,30 @@
+[20251108T094755Z] Starting backup to /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094755Z.tar.gz (dry-run=1). Targets: /etc /var/log
+DRY RUN: would create archive: /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094755Z.tar.gz
+[20251108T094836Z] Starting backup to /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094836Z.tar.gz (dry-run=1). Targets: /etc /var/log
+DRY RUN: would create archive: /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094836Z.tar.gz
+[20251108T094910Z] Starting backup to /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094910Z.tar.gz (dry-run=1). Targets: /etc /var/log
+DRY RUN: would create archive: /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094910Z.tar.gz
+[20251108T094910Z] Starting backup to /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094910Z.tar.gz (dry-run=1). Targets: /etc /var/log
+DRY RUN: would create archive: /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T094910Z.tar.gz
+[20251108T100236Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T100236Z.tar.gz
+[20251108T100315Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T100315Z.tar.gz
+[20251108T100344Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T100344Z.tar.gz
+[20251108T100419Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T100419Z.tar.gz
+[20251108T100826Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T100826Z.tar.gz
+[20251108T102900Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102900Z.tar.gz
+[20251108T102900Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102900Z.tar.gz
+[20251108T102918Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102918Z.tar.gz
+[20251108T102918Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102918Z.tar.gz
+[20251108T102955Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102955Z.tar.gz
+[20251108T102955Z] backup dry=1 targets=/etc /var/log
+dry run: would create /home/apache/Desktop/wipro/bash-script-suite-for-system-maintenance/logs/backups/backup-20251108T102955Z.tar.gz

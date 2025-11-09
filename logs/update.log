@@ -1,0 +1,79 @@
+[20251108T094755Z] Starting update (simulate=1)
+[20251108T094755Z] apt-get update
+[20251108T094755Z] apt-get -y upgrade
+[20251108T094755Z] apt-get -y autoremove
+[20251108T094755Z] Update finished (simulate=1)
+[20251108T094836Z] Starting update (simulate=1)
+[20251108T094836Z] apt-get update
+[20251108T094836Z] apt-get -y upgrade
+[20251108T094836Z] apt-get -y autoremove
+[20251108T094836Z] Update finished (simulate=1)
+[20251108T094910Z] Starting update (simulate=1)
+[20251108T094910Z] apt-get update
+[20251108T094910Z] apt-get -y upgrade
+[20251108T094910Z] apt-get -y autoremove
+[20251108T094910Z] Update finished (simulate=1)
+[20251108T094910Z] Starting update (simulate=1)
+[20251108T094910Z] apt-get update
+[20251108T094910Z] apt-get -y upgrade
+[20251108T094910Z] apt-get -y autoremove
+[20251108T094910Z] Update finished (simulate=1)
+[ 20251108T100419Z ] update simulate=1
+apt-get update && apt-get -y upgrade
+[ 20251108T100826Z ] update done
+[ 20251108T100826Z ] update simulate=1
+apt-get update && apt-get -y upgrade
+[ 20251108T100826Z ] update done
+[ 20251108T102900Z ] starting update
+Get:1 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+Get:2 https://apt.releases.hashicorp.com noble InRelease [12.9 kB]
+Hit:3 https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/noble pgadmin4 InRelease
+Ign:4 https://pkg.jenkins.io/debian-stable binary/ InRelease
+Get:5 https://brave-browser-apt-release.s3.brave.com stable InRelease [7,546 B]
+Hit:6 https://pkg.jenkins.io/debian-stable binary/ Release
+Ign:7 http://repos.rcn.me/apt trusty InRelease
+Err:2 https://apt.releases.hashicorp.com noble InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY AA16FCBCA621E701
+Get:8 https://packages.microsoft.com/repos/code stable InRelease [3,590 B]
+Get:9 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [35.1 kB]
+Get:10 https://brave-browser-apt-release.s3.brave.com stable/main amd64 Packages [25.1 kB]
+Get:11 https://brave-browser-apt-release.s3.brave.com stable/main arm64 Packages [25.0 kB]
+Get:13 https://packages.microsoft.com/repos/code stable/main amd64 Packages [20.8 kB]
+Hit:14 http://archive.ubuntu.com/ubuntu noble InRelease
+Get:15 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Ign:7 http://repos.rcn.me/apt trusty InRelease
+Get:16 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [906 kB]
+Get:17 http://security.ubuntu.com/ubuntu noble-security/universe Translation-en [203 kB]
+Get:18 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [52.3 kB]
+Get:19 http://security.ubuntu.com/ubuntu noble-security/universe amd64 c-n-f Metadata [19.4 kB]
+Get:20 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [208 B]
+Get:21 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [1,305 kB]
+Ign:7 http://repos.rcn.me/apt trusty InRelease
+Get:22 http://security.ubuntu.com/ubuntu noble-security/main Translation-en [215 kB]
+Get:23 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21.5 kB]
+Get:24 http://security.ubuntu.com/ubuntu noble-security/main amd64 c-n-f Metadata [9,336 B]
+Get:25 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [2,135 kB]
+Get:26 http://security.ubuntu.com/ubuntu noble-security/restricted Translation-en [485 kB]
+Get:27 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [212 B]
+Err:7 http://repos.rcn.me/apt trusty InRelease
+  Could not resolve 'repos.rcn.me'
+[ 20251108T102918Z ] starting update
+Ign:1 http://repos.rcn.me/apt trusty InRelease
+Hit:2 https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/noble pgadmin4 InRelease
+Hit:3 https://brave-browser-apt-release.s3.brave.com stable InRelease
+Hit:4 https://download.docker.com/linux/ubuntu noble InRelease
+Ign:5 https://pkg.jenkins.io/debian-stable binary/ InRelease
+Get:6 https://apt.releases.hashicorp.com noble InRelease [12.9 kB]
+Hit:7 https://pkg.jenkins.io/debian-stable binary/ Release
+Hit:8 https://packages.microsoft.com/repos/code stable InRelease
+Err:6 https://apt.releases.hashicorp.com noble InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY AA16FCBCA621E701
+Hit:10 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:11 http://security.ubuntu.com/ubuntu noble-security InRelease
+Ign:1 http://repos.rcn.me/apt trusty InRelease
+Ign:1 http://repos.rcn.me/apt trusty InRelease
+Err:1 http://repos.rcn.me/apt trusty InRelease
+  Could not resolve 'repos.rcn.me'
+Reading package lists...
+W: GPG error: https://apt.releases.hashicorp.com noble InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY AA16FCBCA621E701
+E: The repository 'https://apt.releases.hashicorp.com noble InRelease' is not signed.
